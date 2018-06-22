@@ -11,8 +11,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.util.*;
 public class Utility extends TestBase {
 // Global Time Out Variables
-	public static long PAGE_LOAD_TIMEOUT = 20;
-	public static long IMPLICIT_WAIT = 20;
+	public static long PAGE_LOAD_TIMEOUT = 30;
+	public static long IMPLICIT_WAIT = 30;
 	String parentWindow;
 	Date date = new Date();
 
