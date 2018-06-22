@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82854" started-at="2018-06-16T16:15:44Z" finished-at="2018-06-16T16:17:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82854" started-at="2018-06-16T16:15:44Z" finished-at="2018-06-16T16:17:07Z">
+      <class name="orangeHRM.TestCases.TC4_Dashboard_PageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2018-06-16T16:16:34Z" finished-at="2018-06-16T16:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC4_Dashboard_PageTest.Dashboard_AssignLeaveTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Setup" is-config="true" duration-ms="6339" started-at="2018-06-16T16:16:34Z" finished-at="2018-06-16T16:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Dashboard_AssignLeaveTest()[pri:5, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Dashboard_AssignLeaveTest" duration-ms="5211" started-at="2018-06-16T16:16:40Z" finished-at="2018-06-16T16:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_AssignLeaveTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Teardown" is-config="true" duration-ms="117" started-at="2018-06-16T16:16:45Z" finished-at="2018-06-16T16:16:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-06-16T16:16:46Z" finished-at="2018-06-16T16:16:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Dashboard_AssignLeaveTest status=SUCCESS method=TC4_Dashboard_PageTest.Dashboard_AssignLeaveTest()[pri:5, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-06-16T16:16:46Z" finished-at="2018-06-16T16:16:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC4_Dashboard_PageTest.Dashboard_LeaveListTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Setup" is-config="true" duration-ms="5945" started-at="2018-06-16T16:16:46Z" finished-at="2018-06-16T16:16:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Dashboard_LeaveListTest()[pri:6, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Dashboard_LeaveListTest" duration-ms="5116" started-at="2018-06-16T16:16:52Z" finished-at="2018-06-16T16:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_LeaveListTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Teardown" is-config="true" duration-ms="84" started-at="2018-06-16T16:16:57Z" finished-at="2018-06-16T16:16:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-06-16T16:16:57Z" finished-at="2018-06-16T16:16:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Dashboard_LeaveListTest status=SUCCESS method=TC4_Dashboard_PageTest.Dashboard_LeaveListTest()[pri:6, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2018-06-16T16:16:57Z" finished-at="2018-06-16T16:16:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC4_Dashboard_PageTest.Dashboard_TimesheetTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Setup" is-config="true" duration-ms="5844" started-at="2018-06-16T16:16:57Z" finished-at="2018-06-16T16:17:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Dashboard_TimesheetTest()[pri:7, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Dashboard_TimesheetTest" duration-ms="4518" started-at="2018-06-16T16:17:03Z" finished-at="2018-06-16T16:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard_TimesheetTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="Teardown" is-config="true" duration-ms="68" started-at="2018-06-16T16:17:07Z" finished-at="2018-06-16T16:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="endTest" is-config="true" duration-ms="117" started-at="2018-06-16T16:17:07Z" finished-at="2018-06-16T16:17:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-16T16:17:07Z" finished-at="2018-06-16T16:17:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Dashboard_TimesheetTest status=SUCCESS method=TC4_Dashboard_PageTest.Dashboard_TimesheetTest()[pri:7, instance:orangeHRM.TestCases.TC4_Dashboard_PageTest@1f57539] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- orangeHRM.TestCases.TC4_Dashboard_PageTest -->
+      <class name="orangeHRM.TestCases.TC1_Login_PageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf]" name="beforeMethod" is-config="true" duration-ms="14" started-at="2018-06-16T16:15:44Z" finished-at="2018-06-16T16:15:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC1_Login_PageTest.Login_validLogin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf]" name="SetUp" is-config="true" duration-ms="6755" started-at="2018-06-16T16:15:44Z" finished-at="2018-06-16T16:15:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Login_validLogin()[pri:1, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf]" name="Login_validLogin" duration-ms="3506" started-at="2018-06-16T16:15:51Z" finished-at="2018-06-16T16:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_validLogin -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf]" name="Teardown" is-config="true" duration-ms="68" started-at="2018-06-16T16:15:55Z" finished-at="2018-06-16T16:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-16T16:15:55Z" finished-at="2018-06-16T16:15:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_validLogin status=SUCCESS method=TC1_Login_PageTest.Login_validLogin()[pri:1, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:orangeHRM.TestCases.TC1_Login_PageTest@59e5ddf]" name="endTest" is-config="true" duration-ms="367" started-at="2018-06-16T16:15:55Z" finished-at="2018-06-16T16:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- orangeHRM.TestCases.TC1_Login_PageTest -->
+      <class name="orangeHRM.TestCases.TC2_Home_PageTest_CreateData">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC2_Home_PageTest_CreateData@536aaa8d]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2018-06-16T16:15:55Z" finished-at="2018-06-16T16:15:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC2_Home_PageTest_CreateData.HomePage_CreateTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="HomePage_CreateTest()[pri:2, instance:orangeHRM.TestCases.TC2_Home_PageTest_CreateData@536aaa8d]" name="HomePage_CreateTest" duration-ms="927" started-at="2018-06-16T16:15:55Z" finished-at="2018-06-16T16:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_CreateTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC2_Home_PageTest_CreateData@536aaa8d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-16T16:15:56Z" finished-at="2018-06-16T16:15:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePage_CreateTest status=SUCCESS method=TC2_Home_PageTest_CreateData.HomePage_CreateTest()[pri:2, instance:orangeHRM.TestCases.TC2_Home_PageTest_CreateData@536aaa8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:orangeHRM.TestCases.TC2_Home_PageTest_CreateData@536aaa8d]" name="endTest" is-config="true" duration-ms="37" started-at="2018-06-16T16:15:56Z" finished-at="2018-06-16T16:15:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- orangeHRM.TestCases.TC2_Home_PageTest_CreateData -->
+      <class name="orangeHRM.TestCases.TC3_Home_PageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2018-06-16T16:15:56Z" finished-at="2018-06-16T16:15:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC3_Home_PageTest.HomePage_AdduserTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="Setup" is-config="true" duration-ms="6178" started-at="2018-06-16T16:15:56Z" finished-at="2018-06-16T16:16:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="HomePage_AdduserTest()[pri:3, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="HomePage_AdduserTest" duration-ms="15509" started-at="2018-06-16T16:16:02Z" finished-at="2018-06-16T16:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_AdduserTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="Teardown" is-config="true" duration-ms="199" started-at="2018-06-16T16:16:18Z" finished-at="2018-06-16T16:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="afterMethod" is-config="true" duration-ms="2" started-at="2018-06-16T16:16:18Z" finished-at="2018-06-16T16:16:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePage_AdduserTest status=SUCCESS method=TC3_Home_PageTest.HomePage_AdduserTest()[pri:3, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2018-06-16T16:16:18Z" finished-at="2018-06-16T16:16:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void orangeHRM.TestCases.TC3_Home_PageTest.HomePage_SearchuserTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Setup()[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="Setup" is-config="true" duration-ms="6180" started-at="2018-06-16T16:16:18Z" finished-at="2018-06-16T16:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="HomePage_SearchuserTest()[pri:4, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="HomePage_SearchuserTest" duration-ms="9514" started-at="2018-06-16T16:16:24Z" finished-at="2018-06-16T16:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage_SearchuserTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="Teardown" is-config="true" duration-ms="95" started-at="2018-06-16T16:16:34Z" finished-at="2018-06-16T16:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-06-16T16:16:34Z" finished-at="2018-06-16T16:16:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePage_SearchuserTest status=SUCCESS method=TC3_Home_PageTest.HomePage_SearchuserTest()[pri:4, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:orangeHRM.TestCases.TC3_Home_PageTest@e320068]" name="endTest" is-config="true" duration-ms="92" started-at="2018-06-16T16:16:34Z" finished-at="2018-06-16T16:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- orangeHRM.TestCases.TC3_Home_PageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+orangeHRM\TestCases\TC3_Home_PageTest.class
+orangeHRM\TestCases\TC4_Dashboard_PageTest.class
+orangeHRM\TestCases\TC6_Delete_UsersTest.class
+orangeHRM\TestCases\TC2_Home_PageTest_CreateData.class
+orangeHRM\TestCases\TC5_Leave_PageTest.class
+orangeHRM\TestCases\TC1_Login_PageTest.class
